@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "nama" : "Heri",
+            "Alamat": "Tegal"
+        },
+        {
+            "nama" : "Samsul",
+            "Alamat": "Jakarta"
+        },
+        {
+            "nama" : "Fikri",
+            "Alamat": "Semarang"
+        }
+    ]
+}
